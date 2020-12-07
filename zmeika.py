@@ -15,7 +15,7 @@ head_color = (51,255,102)
 size = [625, 800]
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption('Snake')
-font = pygame.font.SysFont('new times roman', 36)
+font = pygame.font.SysFont('Times New Roman', 36)
 pygame.init()
 
 class snakeblock:
